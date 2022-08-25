@@ -324,6 +324,7 @@ body.light-theme {
 .home__img {
   border-radius: 10rem 10rem 3rem 3rem;
   width: 250px;
+  border: 3px solid var(--first-color);
 }
 
 .home__handle {
