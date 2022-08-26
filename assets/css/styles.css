@@ -168,6 +168,8 @@ body.light-theme {
   color: var(--title-color);
 }
 
+.light-theme .home__img,
+.light-theme .about__img,
 .light-theme .skills__content,
 .light-theme .work__card,
 .light-theme .contact__card {
@@ -324,7 +326,6 @@ body.light-theme {
 .home__img {
   border-radius: 10rem 10rem 3rem 3rem;
   width: 250px;
-  border: 3px solid var(--first-color);
 }
 
 .home__handle {
@@ -434,7 +435,6 @@ body.light-theme {
   width: 220px;
   border-radius: 1.5rem;
   justify-self: center;
-  border: 3px solid var(--first-color);
 }
 
 .about__data {
